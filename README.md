@@ -39,8 +39,4 @@ Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
 
-## Link
 
-Portfolio landing page is hosted on: https://portfolio-monir.web.app/
-
-# My-Portfolio-react
