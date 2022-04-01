@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "catagory": "contact",
+    "href": "mailto:tanimtbh@gmail.com",
+    "icon": "fa-solid fa-at fa-2xl",
+    "text": "tanimtbh@gmail.com"
+  },
+  {
+    "id": 2,
+    "catagory": "contact",
+    "href": "mobile:+46727629827",
+    "icon": "fa-solid fa-phone fa-2xl",
+    "text": "+46727629827"
+  },
+  
+  {
+    "id": 3,
+    "catagory": "social",
+    "href": "https://linkedin.com/in/md-mizanur-rahman-4103311a2 ",
+    "icon": "fa-brands fa-linkedin fa-2xl",
+    "text": " "
+  },
+
+  {
+    "id": 4,
+    "catagory": "social",
+    "href": "https://github.com/tanimtbh",
+    "icon": "fa-brands fa-github fa-2xl",
+    "text": " "
+  },
+  {
+    "id": 5,
+    "catagory": "social",
+    "href": "https://www.facebook.com/tanimtbh/",
+    "icon": "fa-brands fa-facebook fa-2xl",
+    "text": " "
+  },
+  {
+    "id": 6,
+    "catagory": "contact",
+    "href": "https://wa.me/+46727629827",
+    "icon": "fa-brands fa-whatsapp fa-2xl",
+    "text": "WhatsApp"
+  },
+  {
+    "id": 7,
+    "catagory": "contact",
+    "href": "https://telegram.me/tanim404",
+    "icon": "fa-brands fa-telegram fa-2xl",
+    "text": "Telegram"
+  }
+]
